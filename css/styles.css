@@ -477,7 +477,7 @@ label[for="nav-checkbox"] i{
 
 #expedition{
     padding: 0 20px 20px 20px;
-    background-image: url(/assets/spacebg.jpg);
+    background-image: url(../assets/spacebg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
